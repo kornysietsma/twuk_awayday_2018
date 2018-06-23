@@ -5,7 +5,9 @@ This repo is mostly so I can provide a single landing page for
 people who want to view my source code, or demos.  It's pretty thin
 right now, I'll hopefully be adding bits at the last minute!
 
-```
+## This page is at https://goo.gl/pRixSF
+
+```clojure
 (def magic-talk-code 175980)
 ```
 
