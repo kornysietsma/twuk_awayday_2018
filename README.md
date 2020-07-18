@@ -1,6 +1,8 @@
 # Visualising Toxic Code
 Docs and links for my talk at the Thoughtworks UK 2018 away day
 
+**NOTE** this is part of my older code tools - see https://kornysietsma.github.io/polyglot-tools-docs/ for latest stuff.
+
 This repo is mostly so I can provide a single landing page for
 people who want to view my source code, or demos.  It's pretty thin
 right now, I'll hopefully be adding bits at the last minute!
